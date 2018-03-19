@@ -1,0 +1,27 @@
+[INFO  - 2017-07-25T07:57:58.063Z] GhostDriver - Main - running on port 51424
+[INFO  - 2017-07-25T07:58:01.197Z] Session [faf43a40-710e-11e7-a3f3-2f8eac98d0f6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-07-25T07:58:01.198Z] Session [faf43a40-710e-11e7-a3f3-2f8eac98d0f6] - page.customHeaders:  - {}
+[INFO  - 2017-07-25T07:58:01.198Z] Session [faf43a40-710e-11e7-a3f3-2f8eac98d0f6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-07-25T07:58:01.198Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: faf43a40-710e-11e7-a3f3-2f8eac98d0f6
+[ERROR - 2017-07-25T07:58:23.253Z] Session [faf43a40-710e-11e7-a3f3-2f8eac98d0f6] - page.onError - msg: Error: undefined is not a constructor (evaluating 'Object.assign({},e)')
+g@http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/app.js:1:45575
+http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/app.js:1:46146
+o@http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/app.js:1:46241
+a@http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:6:14581
+http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:7:207
+f@http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:6:61159
+http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:6:49227
+a@http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:7:43667
+http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:7:43839
+$eval@http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:7:79877
+$digest@http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:7:78412
+$apply@http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:7:80167
+l@http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:7:12365
+w@http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:7:18627
+onload@http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:7:19100
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-25T07:58:23.253Z] Session [faf43a40-710e-11e7-a3f3-2f8eac98d0f6] - page.onError - stack:
+  (anonymous function) (http://test-wnc1.wcnmobilenowgroup.com/admin/assets/scripts/vendor.js:7)
+
+  phantomjs://platform/console++.js:263 in error

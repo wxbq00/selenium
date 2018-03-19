@@ -1,0 +1,33 @@
+[2018-02-07 17:44:34,807] - log.py] - INFO: 打开浏览器
+[2018-02-07 17:44:34,808] - remote_connection.py] - DEBUG: POST http://127.0.0.1:56253/session/fc3be2014d77bf5f71930944e1125d2a/window/current/maximize {"windowHandle": "current", "sessionId": "fc3be2014d77bf5f71930944e1125d2a"}
+[2018-02-07 17:44:35,050] - remote_connection.py] - DEBUG: Finished Request
+[2018-02-07 17:44:35,051] - log.py] - INFO: 最大化浏览器窗口。
+[2018-02-07 17:44:35,051] - log.py] - INFO: 最大化浏览器窗口。
+[2018-02-07 17:44:35,052] - remote_connection.py] - DEBUG: POST http://127.0.0.1:56253/session/fc3be2014d77bf5f71930944e1125d2a/timeouts/implicit_wait {"ms": 8000.0, "sessionId": "fc3be2014d77bf5f71930944e1125d2a"}
+[2018-02-07 17:44:35,052] - remote_connection.py] - DEBUG: POST http://127.0.0.1:56253/session/fc3be2014d77bf5f71930944e1125d2a/timeouts/implicit_wait {"ms": 8000.0, "sessionId": "fc3be2014d77bf5f71930944e1125d2a"}
+[2018-02-07 17:44:35,053] - remote_connection.py] - DEBUG: Finished Request
+[2018-02-07 17:44:35,053] - remote_connection.py] - DEBUG: Finished Request
+[2018-02-07 17:44:35,054] - remote_connection.py] - DEBUG: POST http://127.0.0.1:56253/session/fc3be2014d77bf5f71930944e1125d2a/url {"url": "https://www.baidu.com", "sessionId": "fc3be2014d77bf5f71930944e1125d2a"}
+[2018-02-07 17:44:35,054] - remote_connection.py] - DEBUG: POST http://127.0.0.1:56253/session/fc3be2014d77bf5f71930944e1125d2a/url {"url": "https://www.baidu.com", "sessionId": "fc3be2014d77bf5f71930944e1125d2a"}
+[2018-02-07 17:44:35,485] - remote_connection.py] - DEBUG: Finished Request
+[2018-02-07 17:44:35,485] - remote_connection.py] - DEBUG: Finished Request
+[2018-02-07 17:44:35,485] - log.py] - INFO: 打开百度首页。
+[2018-02-07 17:44:35,485] - log.py] - INFO: 打开百度首页。
+[2018-02-07 17:44:35,485] - log.py] - INFO: 打开百度首页。
+[2018-02-07 17:44:36,490] - log.py] - INFO: 暂停一秒。
+[2018-02-07 17:44:36,490] - log.py] - INFO: 暂停一秒。
+[2018-02-07 17:44:36,490] - log.py] - INFO: 暂停一秒。
+[2018-02-07 17:44:36,490] - log.py] - INFO: 暂停一秒。
+[2018-02-07 17:44:36,491] - remote_connection.py] - DEBUG: DELETE http://127.0.0.1:56253/session/fc3be2014d77bf5f71930944e1125d2a {"sessionId": "fc3be2014d77bf5f71930944e1125d2a"}
+[2018-02-07 17:44:36,491] - remote_connection.py] - DEBUG: DELETE http://127.0.0.1:56253/session/fc3be2014d77bf5f71930944e1125d2a {"sessionId": "fc3be2014d77bf5f71930944e1125d2a"}
+[2018-02-07 17:44:36,491] - remote_connection.py] - DEBUG: DELETE http://127.0.0.1:56253/session/fc3be2014d77bf5f71930944e1125d2a {"sessionId": "fc3be2014d77bf5f71930944e1125d2a"}
+[2018-02-07 17:44:36,491] - remote_connection.py] - DEBUG: DELETE http://127.0.0.1:56253/session/fc3be2014d77bf5f71930944e1125d2a {"sessionId": "fc3be2014d77bf5f71930944e1125d2a"}
+[2018-02-07 17:44:36,545] - remote_connection.py] - DEBUG: Finished Request
+[2018-02-07 17:44:36,545] - remote_connection.py] - DEBUG: Finished Request
+[2018-02-07 17:44:36,545] - remote_connection.py] - DEBUG: Finished Request
+[2018-02-07 17:44:36,545] - remote_connection.py] - DEBUG: Finished Request
+[2018-02-07 17:44:37,752] - log.py] - INFO: 关闭并退出浏览器。
+[2018-02-07 17:44:37,752] - log.py] - INFO: 关闭并退出浏览器。
+[2018-02-07 17:44:37,752] - log.py] - INFO: 关闭并退出浏览器。
+[2018-02-07 17:44:37,752] - log.py] - INFO: 关闭并退出浏览器。
+[2018-02-07 17:44:37,752] - log.py] - INFO: 关闭并退出浏览器。

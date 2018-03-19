@@ -1,0 +1,5 @@
+{
+  "start_auto_reply.py::auto_reply::test_create_autoReply": true,
+  "start_auto_reply.py::auto_reply::test_filter_by_article": true,
+  "start_auto_reply.py::auto_reply::test_sortByKeyword": true
+}

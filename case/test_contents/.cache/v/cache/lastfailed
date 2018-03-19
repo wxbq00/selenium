@@ -1,0 +1,10 @@
+{
+  "start_article.py::article_unittest": true,
+  "start_article.py::article_unittest::test_a_create_article": true,
+  "start_article.py::article_unittest::test_b_create_message": true,
+  "start_article.py::article_unittest::test_d_create_externalLink": true,
+  "start_article.py::article_unittest::test_e_delete": true,
+  "start_article.py::article_unittest::test_f_filter_by_article": true,
+  "start_article.py::article_unittest::test_g_filterByPublished": true,
+  "start_article.py::article_unittest::test_h_search_by_keyword": true
+}
