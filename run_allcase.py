@@ -26,7 +26,7 @@ def sentmail(file_new):
 #连接 SMTP 服务器，此处用的126的 SMTP 服务器
     smtp.connect('imap.exmail.qq.com')
 #用户名密码
-    smtp.login('lucas.ni@mobilenowgroup.com','369963Zzz')
+    smtp.login('lucas.ni@mobilenowgroup.com','xxx')
     smtp.sendmail(mail_from,mail_to,msg.as_string())
     smtp.quit()
     print( 'email has send out !')
